@@ -8,4 +8,4 @@ python-dotenv
 git+https://github.com/huggingface/peft.git
 trl
 bitsandbytes
-streamlite
+streamlit
